@@ -32,3 +32,5 @@ Num | nome | nota
 2 | nat | 9
 3 | matheus | 9
 4 | will | 10
+
+Não entnedo o comando 'num = int(imput('digite o valor: )'
