@@ -25,4 +25,10 @@ lista de tarefas
 
 ![Lary (@lary8ferreira)](https://user-images.githubusercontent.com/80010336/115077116-e740be00-9ed3-11eb-9d3e-1d693a0c5fd5.jpg)
 
-
+*criando tabela
+Num | nome | nota
+---|---|---
+1 | carol | 10
+2 | nat | 9
+3 | matheus | 9
+4 | will | 10
