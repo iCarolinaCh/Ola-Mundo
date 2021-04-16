@@ -1,11 +1,11 @@
 # Olá, Mundo!
  Primeiro repositorio teste do curso de Git e Github
 
-**Testando a Linguagem de Markdown** 
+**Testando a Linguagem de Markdown**
 ---
 Podemos _*misturar_* configurações
 
-##Titulo lista numerada:
+Titulo lista numerada:
 
 1. teste
 2. teste
@@ -17,7 +17,7 @@ Lista demarcada:
   *teste
 *teste
 
-##lista de tarefas
+lista de tarefas
 - [ ] terminar o projeto
 - [ ] e subir no site
 - [ ] treinar o css
